@@ -20,14 +20,19 @@ This project evaluates geospatial datasets and terrain analysis products used to
 
 | Dataset                      | Coordinate System            | Coverage / Creation Date          | Scale                        | Analytical Use                                                                        |
 | ---------------------------- | ---------------------------- | --------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------- |
+| **Earthquake Data**          | Undefined                    | Afghanistan/Pakistan region; 2010 | Varies                       | Historical earthquake analysis and seismic hazard prediction                          |
 | **SRTM 3**                   | GCS WGS 1984                 | 5x5 degree cells; 2000            | 1:3,186,195                  | Elevation analysis, hillshade generation, slope/aspect analysis, landslide assessment |
 | **50K Topographic Maps**     | Undefined                    | 15x15 minute cells; ~1985–1991    | 1:50K                        | Land navigation, topographic analysis, built-up area identification                   |
 | **200K Topographic Maps**    | GCS WGS 1984                 | 1x1 degree cells; ~1985–1991      | 1:200K                       | Regional basemap analysis, terrain visualization, settlement identification           |
 | **VMAP Level 1 Data**        | GCS WGS 1984                 | Afghanistan-focused; 1993         | Derived from 1:250K JOG      | Transportation network analysis, road networks, boundaries, built-up areas            |
 | **Landsat Geocover Imagery** | WGS 1984 UTM Zone 42N        | 5x6 degree cells; 2000            | 1:3,166,497                  | Basemap imagery, vegetation analysis, urban growth assessment                         |
-| **Earthquake Data**          | Undefined                    | Afghanistan/Pakistan region; 2010 | Varies                       | Historical earthquake analysis and seismic hazard prediction                          |
 | **USGS Fault Data**          | WGS 1984 Transverse Mercator | Afghanistan; 2007                 | Varies                       | Fault line analysis and seismic hazard assessment                                     |
 | **Landcover Data**           | GCS WGS 1984                 | Afghanistan; 1993                 | Intended for 1:250K analysis | Vegetation, cultivation, soil, marshland, and terrain analysis                        |
+
+## Earthquake Data Analysis
+
+
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/vector-raster/blob/main/C_5Map.png">
 
 ---
 
