@@ -42,8 +42,9 @@ This project evaluates geospatial datasets and terrain analysis products used to
 <img width="1000" alt="image" src="https://github.com/JamesA-usa/Afghanistan-Relief-Operations/blob/main/MapQ5.jpg">
 
 ## Travel Cost Analysis Using SRTM 3 Raster & VMAP Level 1 Vector Data
+### Key Concerns
 
-<img width="1000" alt="image" src="https://github.com/JamesA-usa/Afghanistan-Relief-Operations/blob/main/MapQ5.jpg">
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Afghanistan-Relief-Operations/blob/main/Q7A2Map_Cost_Distance.jpg">
 
 ---
 
