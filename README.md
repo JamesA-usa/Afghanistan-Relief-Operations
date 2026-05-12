@@ -71,6 +71,15 @@ Replace the existing VMAP Level 1 data with updated transportation and airfield 
 
 ---
 
+## Travel Cost Analysis Between Airfields if Pakistan Keeps Border Open
+
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Afghanistan-Relief-Operations/blob/main/PK_Open.jpg">
+
+
+## Travel Cost Analysis Between Airfields if Pakistan Closed Border
+
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Afghanistan-Relief-Operations/blob/main/PK_Closed.jpg">
+
 # Airfield Suitability Analysis
 
 ## Chaman Airfield
