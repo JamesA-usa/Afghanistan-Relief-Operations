@@ -50,7 +50,6 @@ This project evaluates geospatial datasets and terrain analysis products used to
 ### Using VMAP Level 1 Vector Data
 
 <img width="1000" alt="image" src="https://github.com/JamesA-usa/Afghanistan-Relief-Operations/blob/main/Q7Map_Cost_Surface.jpg">
----
 
 # Operational Assessment
 
