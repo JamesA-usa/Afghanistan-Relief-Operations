@@ -32,7 +32,8 @@ This project evaluates geospatial datasets and terrain analysis products used to
 ## Earthquake Data Analysis
 
 
-<img width="1000" alt="image" src="https://github.com/JamesA-usa/vector-raster/blob/main/C_5Map.png">
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Afghanistan-Relief-Operations/blob/main/This_Histo.jpg">
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Afghanistan-Relief-Operations/blob/main/MapQ4_A.jpg">
 
 ---
 
